@@ -1,12 +1,14 @@
 body {
 	font-family: "Roboto", sans-serif;
 	color: #2E2F42;
+	background-color: white;
 }
 
-ul, a {
+ul, a, address {
 	text-decoration: none;
 	list-style-type: none;
 	color: inherit;
+	font-style: normal;
 }
 
 .studio, .portfolio, .contacts {
@@ -34,4 +36,120 @@ ul, a {
 	letter-spacing: 0.03em;
 	text-transform: uppercase;
 	color: #4d5ae5;
+}
+
+.address-a {
+	font-style: normal;
+}
+
+.section-1 {
+	background: #2e2f42;
+}
+
+.h1-hero {
+	font-weight: 700;
+	font-size: 56px;
+	line-height: 1.07143;
+	letter-spacing: 0.02em;
+	text-align: center;
+	color: #fff;
+}
+
+button {
+	cursor: pointer;
+}
+
+.section-our-features .features-title {
+	font-weight: 500;
+	font-size: 20px;
+	line-height: 1.2;
+	letter-spacing: 0.02em;
+	color: #2e2f42;
+}
+
+.section-our-features .features-text {
+	font-weight: 400;
+	font-size: 16px;
+	line-height: 1.5;
+	letter-spacing: 0.02em;
+	color: #434455;
+}
+
+.our-team {
+	background: #f4f4fd;
+}
+
+.section-team {
+	font-weight: 700;
+	font-size: 36px;
+	line-height: 1.11111;
+	letter-spacing: 0.02em;
+	text-transform: capitalize;
+	text-align: center;
+	color: #2e2f42;
+}
+
+.section-team .team-title {
+	font-weight: 500;
+	font-size: 20px;
+	line-height: 1.2;
+	letter-spacing: 0.02em;
+	text-align: center;
+	color: #2e2f42;
+}
+
+.section-team .team-text {
+	font-weight: 400;
+	font-size: 16px;
+	line-height: 1.5;
+	letter-spacing: 0.02em;
+	text-align: center;
+	color: #434455;
+}
+
+.section-portfolio {
+	font-weight: 700;
+	font-size: 36px;
+	line-height: 1.11111;
+	letter-spacing: 0.02em;
+	text-transform: capitalize;
+	text-align: center;
+	color: #2e2f42;
+}
+
+.section-portfolio .portfolio-title {
+	font-weight: 500;
+	font-size: 20px;
+	line-height: 1.2;
+	letter-spacing: 0.02em;
+	color: #2e2f42;
+}
+
+.section-portfolio .portfolio-text {
+	font-weight: 400;
+	font-size: 16px;
+	line-height: 1.5;
+	letter-spacing: 0.02em;
+	color: #434455;
+}
+
+.footer-text {
+	font-weight: 400;
+	font-size: 16px;
+	line-height: 1.5;
+	letter-spacing: 0.02em;
+	color: #f4f4fd;
+}
+
+.footer {
+	background: #2e2f42;
+}
+
+.logo-studio {
+	font-weight: 700;
+font-size: 18px;
+line-height: 1.16667;
+letter-spacing: 0.03em;
+text-transform: uppercase;
+color: #f4f4fd;
 }
