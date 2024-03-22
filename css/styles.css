@@ -1,6 +1,6 @@
 body {
 	font-family: "Roboto", sans-serif;
-	color: #2E2F42;
+	color: #434455;
 	background-color: white;
 }
 
@@ -26,7 +26,7 @@ ul, a, address {
 	line-height: 1.16667;
 	letter-spacing: 0.03em;
 	text-transform: uppercase;
-	color: #2E2F42;
+	color: #4d5ae5;
 }
 .web-text {
 	font-family: "Raleway" sans-serif;
@@ -49,7 +49,7 @@ ul, a, address {
 .h1-hero {
 	font-weight: 700;
 	font-size: 56px;
-	line-height: 1.07143;
+	line-height: 1.07;
 	letter-spacing: 0.02em;
 	text-align: center;
 	color: #fff;
@@ -82,7 +82,7 @@ button {
 .section-team {
 	font-weight: 700;
 	font-size: 36px;
-	line-height: 1.11111;
+	line-height: 1.11;
 	letter-spacing: 0.02em;
 	text-transform: capitalize;
 	text-align: center;
@@ -110,7 +110,7 @@ button {
 .section-portfolio {
 	font-weight: 700;
 	font-size: 36px;
-	line-height: 1.11111;
+	line-height: 1.11;
 	letter-spacing: 0.02em;
 	text-transform: capitalize;
 	text-align: center;
@@ -147,9 +147,18 @@ button {
 
 .logo-studio {
 	font-weight: 700;
-font-size: 18px;
-line-height: 1.16667;
-letter-spacing: 0.03em;
-text-transform: uppercase;
-color: #f4f4fd;
+	font-size: 18px;
+	line-height: 1.17;
+	letter-spacing: 0.03em;
+	text-transform: uppercase;
+	color: #f4f4fd;
+}
+
+.logo-studio-header {
+	font-weight: 700;
+	font-size: 18px;
+	line-height: 1.16667;
+	letter-spacing: 0.03em;
+	text-transform: uppercase;
+	color: #2e2f42;
 }
