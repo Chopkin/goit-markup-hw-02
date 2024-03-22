@@ -55,11 +55,11 @@ ul, a, address {
 	color: #434455;
 }
 
-.section-1 {
+.section-first {
 	background: #2e2f42;
 }
 
-.h1-hero {
+.h-title-hero {
 	font-weight: 700;
 	font-size: 56px;
 	line-height: 1.07;
