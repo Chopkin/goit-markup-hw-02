@@ -68,8 +68,20 @@ ul, a, address {
 	color: #fff;
 }
 
-button {
+.button-purple {
+	font-family: "Roboto", sans-serif;
 	cursor: pointer;
+	font-weight: 500;
+	font-size: 16px;
+	line-height: 1.5;
+	letter-spacing: 0.04em;
+	color: #ffffff;
+	background-color: #4D5AE5
+}
+
+.button-purple:hover,
+.button-purple:focus {
+	background-color: #404BBF
 }
 
 .section-our-features .features-title {
